@@ -28,6 +28,6 @@ Aplicația permite gestionarea profilelor candidaților (creare, vizualizare, ac
 
 - Consumul API-ului cu fetch/axios, afișare liste, formulare create/update, paginare simplă.
 
-- Autentificare prin JWT: POST /api/auth/login returnează token; token trimis în Authorization: Bearer <token>.
+- Autentificare prin JWT: POST /api/auth/login returnează token; token trimis în Authorization: Bearer token.
 
 - Integrarea: LinkedIn (OAuth2) pentru autorizare și apel la API prin folosirea unui serviciu placeholder.
