@@ -8,17 +8,17 @@ Aplicația permite gestionarea profilelor candidaților (creare, vizualizare, ac
 
 ## Stack:  
 
-# Backend: Node.js + Express.js — RESTful API
+ Backend: Node.js + Express.js — RESTful API
 
-# ORM: TypeORM 
+ ORM: TypeORM 
 
-# Bază de date: PostgreSQL (relațional)
+ Bază de date: PostgreSQL (relațional)
 
-# Autentificare: JWT (JSON Web Tokens) + OAuth2 
+ Autentificare: JWT (JSON Web Tokens) + OAuth2 
 
-# Frontend: React.js (CRA / Vite) cu React Router
+ Frontend: React.js (CRA / Vite) cu React Router
 
-# Instrumente: Postman / HTTPie / REST Client
+ Instrumente: Postman / HTTPie / REST Client
 
 ## Specificații:
 
