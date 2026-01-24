@@ -43,18 +43,19 @@ Aplicația permite gestionarea profilelor candidaților (creare, vizualizare, ac
     - cd backend
     - npm install
     - se creaza un fisier .env in backend/de forma: 
-     ![alt text](image.png)
+     <p align="center"> <img src="image.png" width="500"> </p>
     - se ruleaza npm run dev 
     - Serverul trebuie sa ruleze si sa afiseze urmatoarele:
-     ![alt text](image-2.png)
+     <p align="center"> <img src="image-2.png" width="500"> </p>
     - cd .., cd frontend/
     - npm install 
     - npm run dev 
-     ![alt text](image-3.png)
+     <p align="center"> <img src="image-3.png" width="500"> </p>
 - 5. se poate testa prin Postman ruland rutele implementate:
-![alt text](image-4.png) ![alt text](image-5.png)
+<p align="center"> <img src="image-4.png" width="500"> </p> 
+<p align="center"> <img src="image-5.png" width="500"> </p>
 - 6. se poate accesa linkul http://localhost:5173/ creat local din urma rulari in /frontend
 - 7. Te va duce pa pagina de autentificare: 
-![alt text](image-6.png)
+<p align="center"> <img src="image-6.png" width="500"> </p>
 - 8. Dupa Login se va putea interactiona cu metodele implementate
-![alt text](image-7.png)
+<p align="center"> <img src="image-7.png" width="500"> </p>
