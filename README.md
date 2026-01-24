@@ -47,7 +47,8 @@ Aplicația permite gestionarea profilelor candidaților (creare, vizualizare, ac
     - se ruleaza npm run dev 
     - Serverul trebuie sa ruleze si sa afiseze urmatoarele:
      <p align="center"> <img src="image-2.png" width="500"> </p>
-    - cd .., cd frontend/
+    - cd .., 
+    - cd frontend
     - npm install 
     - npm run dev 
      <p align="center"> <img src="image-3.png" width="500"> </p>
