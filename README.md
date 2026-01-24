@@ -40,16 +40,16 @@ Aplicația permite gestionarea profilelor candidaților (creare, vizualizare, ac
     psql -U postgres -d postgres -h localhost
     ![alt text](image-1.png)
 - 4. Din interiorul proiectului se ruleaza pe rand :
-    1. cd backend
-    2. npm install
-    3. se creaza un fisier .env in backend/de forma: 
+    - cd backend
+    - npm install
+    - se creaza un fisier .env in backend/de forma: 
      ![alt text](image.png)
-    4. se ruleaza npm run dev 
-    5. Serverul trebuie sa ruleze si sa afiseze urmatoarele:
+    - se ruleaza npm run dev 
+    - Serverul trebuie sa ruleze si sa afiseze urmatoarele:
      ![alt text](image-2.png)
-    6. cd .., cd frontend/
-    7. npm install 
-    8. npm run dev 
+    - cd .., cd frontend/
+    - npm install 
+    - npm run dev 
      ![alt text](image-3.png)
 - 5. se poate testa prin Postman rutele implementate:
 ![alt text](image-4.png) ![alt text](image-5.png)
