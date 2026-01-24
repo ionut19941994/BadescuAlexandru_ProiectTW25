@@ -51,7 +51,7 @@ Aplicația permite gestionarea profilelor candidaților (creare, vizualizare, ac
     - npm install 
     - npm run dev 
      ![alt text](image-3.png)
-- 5. se poate testa prin Postman rutele implementate:
+- 5. se poate testa prin Postman ruland rutele implementate:
 ![alt text](image-4.png) ![alt text](image-5.png)
 - 6. se poate accesa linkul http://localhost:5173/ creat local din urma rulari in /frontend
 - 7. Te va duce pa pagina de autentificare: 
