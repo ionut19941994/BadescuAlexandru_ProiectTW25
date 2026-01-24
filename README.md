@@ -34,4 +34,27 @@ Aplicația permite gestionarea profilelor candidaților (creare, vizualizare, ac
 
 # Pasi pentru Rularea proiectului 
 
-1. 
+- 1. Se cloneaza repo-ul local
+- 2. Se instaleaza Postgres pentru OS-ul folosit: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+- 3. Te asiguri ca baza de date e pornita cu comanda: 
+    psql -U postgres -d postgres -h localhost
+    ![alt text](image-1.png)
+- 4. Din interiorul proiectului se ruleaza pe rand :
+    1. cd backend
+    2. npm install
+    3. se creaza un fisier .env in backend/de forma: 
+     ![alt text](image.png)
+    4. se ruleaza npm run dev 
+    5. Serverul trebuie sa ruleze si sa afiseze urmatoarele:
+     ![alt text](image-2.png)
+    6. cd .., cd frontend/
+    7. npm install 
+    8. npm run dev 
+     ![alt text](image-3.png)
+- 5. se poate testa prin Postman rutele implementate:
+![alt text](image-4.png) ![alt text](image-5.png)
+- 6. se poate accesa linkul http://localhost:5173/ creat local din urma rulari in /frontend
+- 7. Te va duce pa pagina de autentificare: 
+![alt text](image-6.png)
+- 8. Dupa Login se va putea interactiona cu metodele implementate
+![alt text](image-7.png)
