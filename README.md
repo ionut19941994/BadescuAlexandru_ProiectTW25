@@ -38,7 +38,7 @@ Aplicația permite gestionarea profilelor candidaților (creare, vizualizare, ac
 - 2. Se instaleaza Postgres pentru OS-ul folosit: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 - 3. Te asiguri ca baza de date e pornita cu comanda: 
     psql -U postgres -d postgres -h localhost
-    ![alt text](image-1.png)
+    <p align="center"> <img src="image-1.png" width="500"> </p>
 - 4. Din interiorul proiectului se ruleaza pe rand :
     - cd backend
     - npm install
