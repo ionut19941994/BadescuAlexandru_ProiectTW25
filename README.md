@@ -10,7 +10,7 @@ Aplicația permite gestionarea profilelor candidaților (creare, vizualizare, ac
 
  Backend: Node.js + Express.js — RESTful API
 
- ORM: TypeORM 
+ ORM: Sequyelize 
 
  Bază de date: PostgreSQL (relațional)
 
@@ -31,3 +31,7 @@ Aplicația permite gestionarea profilelor candidaților (creare, vizualizare, ac
 - Autentificare prin JWT: POST /api/auth/login returnează token; token trimis în Authorization: Bearer token.
 
 - Integrarea: LinkedIn (OAuth2) pentru autorizare și apel la API prin folosirea unui serviciu placeholder.
+
+# Pasi pentru Rularea proiectului 
+
+1. 
